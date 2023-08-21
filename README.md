@@ -2,7 +2,7 @@
 A DSL for "intermediate" representation of data models.
 
 
-# About
+## About
 This repository is intended as a specification for a domain-specific language with which data can be modeled. The syntax is intended to be intuitive and sufficient to translate between data models in different languages/frameworks.
 
 Here's an example
